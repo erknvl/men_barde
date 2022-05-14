@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "167492820164",
+    "project_id": "men-barde",
+    "storage_bucket": "men-barde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167492820164:android:bccff951a544fd2dcabd91",
+        "android_client_info": {
+          "package_name": "com.example.men_barde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167492820164-t5crfo6kip9093rhg621bu60iav5d29d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2EeP554rKZSqYvyjXRNhtVWklgPXk3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167492820164-t5crfo6kip9093rhg621bu60iav5d29d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167492820164-2djkj06ggeubh5m82t9sqh7poo1a0l6o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.menBarde"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
