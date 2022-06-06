@@ -25,6 +25,8 @@ migrate_working_dir/
 .fvm/flutter_sdk
 **/doc/api/
 **/ios/Flutter/.last_build_id
+*.g.dart
+*.freezed.dart
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
